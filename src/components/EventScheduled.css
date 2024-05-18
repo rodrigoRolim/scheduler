@@ -1,0 +1,5 @@
+.scheduler__event {
+  display: flex;
+  position: absolute;
+  background-color: red;
+}

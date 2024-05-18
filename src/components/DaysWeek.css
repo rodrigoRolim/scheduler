@@ -1,0 +1,7 @@
+.scheduler__days-week {
+  grid-area: dayweeks;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: 40px;
+  gap: 0.5px;
+}

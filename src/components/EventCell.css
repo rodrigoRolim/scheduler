@@ -1,0 +1,8 @@
+.scheduler__cell-event {
+  position: relative;
+  display: grid;
+  grid-area: eventcells;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(23, 40px);
+  gap: 0.5px;
+}

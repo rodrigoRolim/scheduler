@@ -1,0 +1,7 @@
+.scheduler__time-zone {
+  display: grid;
+  grid-area: timezone;
+  grid-template-rows: 1fr;
+  font-size: 10px;
+  gap: 1px;
+}

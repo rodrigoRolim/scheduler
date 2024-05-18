@@ -1,0 +1,8 @@
+.scheduler {
+  display: grid;
+  grid-template: 'timezone dayweeks'
+                  'hours eventcells'
+                  / 48px auto;
+  gap: 0.5px;
+  min-width: 1128px;
+}

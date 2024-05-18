@@ -1,0 +1,6 @@
+.scheduler__hours-cell {
+  display: grid;
+  grid-area: hours;
+  grid-template-rows: repeat(23, 40px);
+  gap: 0.5px;
+}
